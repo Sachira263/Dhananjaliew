@@ -166,4 +166,4 @@ const dhananjalie = {
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:E91E63,100:9C27B0" />
 </div>
 
-<h4 align="center">💖 Thanks for visiting! Let's build something amazing together! 🚀</h4>
+<h4 align="center">💖 Thanks for visiting! Let's build something amazing together! 🚀</h4> change this code add my informations
